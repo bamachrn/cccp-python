@@ -1,0 +1,7 @@
+- project:
+    name: centos-httpd
+    image_name: centos-httpd
+    build_script: /build_steps.sh
+    test_location: /tests
+    test_script: /test_steps.sh
+    delivery_script: /delivery_steps.sh
