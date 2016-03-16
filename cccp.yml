@@ -1,0 +1,5 @@
+job-id: bamachrn-python
+test-skip: false
+build_script: build_steps.sh
+test_script: test_steps.sh
+delivery_script: delivery_steps.sh
