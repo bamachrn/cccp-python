@@ -1,4 +1,4 @@
-job-id: bamachrn-python
+job-id: python
 test-skip: false
 build-script: build_steps.sh
 test-script: test_steps.sh
